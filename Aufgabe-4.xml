@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rechnungen
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="Aufgabe-4.xsd">
+<rechnung id ="1">
+	<anschrift-absender>
+	<anrede></anrede>
+		<name>"Kleintier Meier GmbH"</name>
+		<strasse>"Meierring 3"</strasse>
+		<plz>"81828"</plz>
+		<ort>"Machthausen"</ort>
+		<telefon>"0777/987987"</telefon>
+		<fax>"0777/987789"</fax>
+		<e-mail>"klein.meier@tiere.de"</e-mail></anschrift-absender>
+	<anschrift-empfaenger>
+	<anrede>"Frau"</anrede>
+		<name>"Sybille Sonder-Suttelrau"</name>
+		<strasse>"Am Süttelbach 17"</strasse>
+		<plz>"77070"</plz>
+		<ort>"Siedelsuderstadt"</ort>
+		<telefon></telefon>
+		<fax></fax>
+		<e-mail></e-mail>
+		</anschrift-empfaenger>
+    <steuernummer>"88 123/8282 2"</steuernummer>
+	<datum>"15.1.2017"</datum>
+	<rechnungsnummer>"657321"</rechnungsnummer>
+	<umsatzsteuer-identifikationsnummer>DE000000000</umsatzsteuer-identifikationsnummer>
+	<menge-und-art-der-gelieferten-gegenstaende datum = "15-1-2017">
+		
+			<artikel nummer = "1">
+				<menge-einheit>"100 Stück"</menge-einheit>
+				<leistung>"Antike Holzwürmer"</leistung>
+				<einzelpreis-euro>"1,50"</einzelpreis-euro>
+				<gesamtpreis-euro>"150,00"</gesamtpreis-euro>
+				<mehrwertsteuer-prozent>"19"</mehrwertsteuer-prozent></artikel>
+			<artikel nummer = "2">
+				<menge-einheit>1</menge-einheit>
+				<leistung>"Holzwurmfutter"</leistung>
+				<einzelpreis-euro>34,45</einzelpreis-euro>
+				<gesamtpreis-euro>"34,45"</gesamtpreis-euro>
+				<mehrwertsteuer-prozent>"19"</mehrwertsteuer-prozent></artikel>
+			<artikel nummer = "3">
+				<menge-einheit>"1"</menge-einheit>
+				<leistung>"Steinlaus, Petrophaga lorioti"</leistung>
+				<einzelpreis-euro>"777,77"</einzelpreis-euro>
+				<gesamtpreis-euro>"777,77"</gesamtpreis-euro>
+				<mehrwertsteuer-prozent>"19"</mehrwertsteuer-prozent></artikel>
+			</menge-und-art-der-gelieferten-gegenstaende>
+	<entgeld-fuer-die-lieferung>
+		<bruttobetrag>"962,22 Euro"</bruttobetrag>
+		<nettobetrag>"808,59 Euro "</nettobetrag>
+		<mwst-gesamt>"153,63 Euro"</mwst-gesamt></entgeld-fuer-die-lieferung>
+		<zahlungsmoeglichkeiten>
+	<iban></iban>
+	<bic-und-kontonummer>"BLZ66050101 /987654321"</bic-und-kontonummer>
+	<bitcoin-adresse></bitcoin-adresse>
+	</zahlungsmoeglichkeiten>
+	</rechnung>
+	<rechnung id = "2">
+	<anschrift-absender>
+	<anrede></anrede>
+	<name>"Rochade-La Hoff Pharma GmbH"</name>
+		<strasse>"An der Chemie 17"</strasse>
+		<plz>"79639"</plz>
+		<ort>"Grenzych-Wahlen"</ort>
+		<telefon>07624/ 666333999</telefon>
+		<fax>07624/ 666333990</fax>
+		<e-mail></e-mail>
+	</anschrift-absender>
+	<anschrift-empfaenger>
+	<anrede>"Herr Dr. med. "</anrede>
+		<name>"Cyprian Zottel"</name>
+		<strasse>"Soddelstrudel 5a"</strasse>
+		<plz>"13023"</plz>
+		<ort>"Zotenheim"</ort></anschrift-empfaenger>
+    <steuernummer></steuernummer>
+	<datum>"8.8.2017"</datum>
+	<rechnungsnummer>"98-798-7987"</rechnungsnummer>
+	<umsatzsteuer-identifikationsnummer>DE333666999</umsatzsteuer-identifikationsnummer>	
+	<menge-und-art-der-gelieferten-gegenstaende datum = "8-8-2017">
+		
+			<artikel nummer = "1">
+				<menge-einheit>"3 Packungen"</menge-einheit>
+				<leistung>"Grippemittel "Tumifla""</leistung>
+				<einzelpreis-euro>"120,00"</einzelpreis-euro>
+				<gesamtpreis-euro>"360,00"</gesamtpreis-euro>
+				<mehrwertsteuer-prozent>"19"</mehrwertsteuer-prozent></artikel>
+			<artikel nummer = "2">
+				<menge-einheit></menge-einheit>
+				<leistung>"Beratung pauschal"</leistung>
+				<einzelpreis-euro></einzelpreis-euro>
+				<gesamtpreis-euro>"50,00"</gesamtpreis-euro>
+				<mehrwertsteuer-prozent>"19"</mehrwertsteuer-prozent></artikel>
+			<artikel nummer = "3">
+				<menge-einheit>"2 Liter"</menge-einheit>
+				<leistung>"Abfuhrmittel "wech damit" pro Liter"</leistung>
+				<einzelpreis-euro>"99,99"</einzelpreis-euro>
+				<gesamtpreis-euro>"199,98"</gesamtpreis-euro>
+				<mehrwertsteuer-prozent>"19"</mehrwertsteuer-prozent></artikel>
+			<artikel nummer = "4">
+				<menge-einheit>"2 Stück"</menge-einheit>
+				<leistung>"Energieriegel "Satto""</leistung>
+				<einzelpreis-euro>"5.98"</einzelpreis-euro>
+				<gesamtpreis-euro>"11,96"</gesamtpreis-euro>
+				<mehrwertsteuer-prozent>"7"</mehrwertsteuer-prozent></artikel></menge-und-art-der-gelieferten-gegenstaende>
+	<entgeld-fuer-die-lieferung>
+		<bruttobetrag>"621,94 Euro"</bruttobetrag>
+		<nettobetrag>"490,22 Euro "</nettobetrag>
+		<mwst-gesamt>"116,74 Euro"</mwst-gesamt></entgeld-fuer-die-lieferung>
+		<zahlungsmoeglichkeiten>
+	<iban>"DE18683700340999666333"</iban>
+	<bic-und-kontonummer>"DEUTDE6F683"</bic-und-kontonummer>
+	<bitcoin-adresse></bitcoin-adresse>
+	</zahlungsmoeglichkeiten></rechnung>
+	<rechnung id ="3">
+	<anschrift-absender>
+	<anrede></anrede>
+	<name>"Bestattungen Unterberg"</name>
+		<strasse>"Oberbergweg 5"</strasse>
+		<plz>"43210"</plz>
+		<ort>"Ultursingen"</ort>
+		<telefon>0478/ 777555</telefon>
+		<fax></fax>
+		<e-mail>unter@berg.de</e-mail>
+	</anschrift-absender>
+	<anschrift-empfaenger>
+	<anrede></anrede>
+		<name>"Familie Urmel"</name>
+		<strasse>"Ulturenstrasse 764"</strasse>
+		<plz>"43210"</plz>
+		<ort>"Ultursingen"</ort></anschrift-empfaenger>
+    <steuernummer></steuernummer>
+	<datum>"19.10.2017"</datum>
+	<rechnungsnummer>"893 213 11"</rechnungsnummer>
+	<umsatzsteuer-identifikationsnummer>DE987654321</umsatzsteuer-identifikationsnummer>	
+	<menge-und-art-der-gelieferten-gegenstaende datum = "19-10-2017">
+		
+			<artikel nummer = "1">
+				<menge-einheit>"1 Stück"</menge-einheit>
+				<leistung>"Urne, Eiche massiv"</leistung>
+				<einzelpreis-euro></einzelpreis-euro>
+				<gesamtpreis-euro>"299,99"</gesamtpreis-euro>
+				<mehrwertsteuer-prozent>"19"</mehrwertsteuer-prozent></artikel>
+			<artikel nummer = "2">
+				<menge-einheit>"1 Stück"</menge-einheit>
+				<leistung>"Überführung Krematorium Feuerbach inkl. Begleitpersonal"</leistung>
+				<einzelpreis-euro></einzelpreis-euro>
+				<gesamtpreis-euro>"349,00"</gesamtpreis-euro>
+				<mehrwertsteuer-prozent>"19"</mehrwertsteuer-prozent></artikel>
+			<artikel nummer = "3">
+				<menge-einheit>"1 Stück"</menge-einheit>
+				<leistung>"Dekoration"</leistung>
+				<einzelpreis-euro></einzelpreis-euro>
+				<gesamtpreis-euro>"149,50"</gesamtpreis-euro>
+				<mehrwertsteuer-prozent>"19"</mehrwertsteuer-prozent></artikel>
+			<artikel nummer = "4">
+				<menge-einheit>"40 Stück"</menge-einheit>
+				<leistung>"Trauerkarten inkl. Briefmarken"</leistung>
+				<einzelpreis-euro>"2,00"</einzelpreis-euro>
+				<gesamtpreis-euro>"80,00"</gesamtpreis-euro>
+				<mehrwertsteuer-prozent>"19"</mehrwertsteuer-prozent></artikel></menge-und-art-der-gelieferten-gegenstaende>
+	<entgeld-fuer-die-lieferung>
+		<bruttobetrag>"738,23 Euro"</bruttobetrag>
+		<nettobetrag>"878,49 Euro"</nettobetrag>
+		<mwst-gesamt>"140,26 Euro"</mwst-gesamt></entgeld-fuer-die-lieferung>
+	<zahlungsmoeglichkeiten>
+	<iban>"DE16660501010077889911"</iban>
+	<bic-und-kontonummer>"UBSWCHZH80H /75847683"</bic-und-kontonummer>
+	<bitcoin-adresse>"1P82rBiJHDFSav2QrKx1bvdDRVh5QnGkkZ"</bitcoin-adresse>
+	</zahlungsmoeglichkeiten>
+	</rechnung>
+	<rechnung id ="4">
+	<anschrift-absender>
+	<anrede></anrede>
+	<name>"Weinhandel von Langres"</name>
+		<strasse>"Emilianigasse 19"</strasse>
+		<plz>"86866"</plz>
+		<ort>"Mickhausen"</ort>
+		<telefon></telefon>
+		<fax></fax>
+		<e-mail></e-mail>
+	</anschrift-absender>
+	<anschrift-empfaenger>
+	<anrede>"Seine Exzellenz der Hochwürdigste Herr Erzbischof"</anrede>
+		<name>"Waldus Mikksa"</name>
+		<strasse>"Fronhof 4"</strasse>
+		<plz>"86152"</plz>
+		<ort>"Augsburg"</ort></anschrift-empfaenger>
+    <steuernummer></steuernummer>
+	<datum>"7.11.2009"</datum>
+	<rechnungsnummer>"611-555-32"</rechnungsnummer>
+	<umsatzsteuer-identifikationsnummer>DE123456789</umsatzsteuer-identifikationsnummer>	
+	<menge-und-art-der-gelieferten-gegenstaende datum = "7-11-2009">
+		
+			<artikel nummer = "1">
+				<menge-einheit>"1 Fass"</menge-einheit>
+				<leistung>"Liebliche Gottesmilbe"</leistung>
+				<einzelpreis-euro></einzelpreis-euro>
+				<gesamtpreis-euro>"2299,98"</gesamtpreis-euro>
+				<mehrwertsteuer-prozent>"19"</mehrwertsteuer-prozent></artikel>
+			<artikel nummer = "2">
+				<menge-einheit>"100 Stück"</menge-einheit>
+				<leistung>"Standardweingläser "Schluck""</leistung>
+				<einzelpreis-euro></einzelpreis-euro>
+				<gesamtpreis-euro>"59,90"</gesamtpreis-euro>
+				<mehrwertsteuer-prozent>"19"</mehrwertsteuer-prozent></artikel>
+			</menge-und-art-der-gelieferten-gegenstaende>
+	<entgeld-fuer-die-lieferung>
+		<bruttobetrag>"2359,88 Euro"</bruttobetrag>
+		<nettobetrag></nettobetrag>
+		<mwst-gesamt>"376,79 Euro"</mwst-gesamt></entgeld-fuer-die-lieferung>
+	<zahlungsmoeglichkeiten>
+	<iban></iban>
+	<bic-und-kontonummer>"BLZ 37060193 / 80200601"</bic-und-kontonummer>
+	<bitcoin-adresse></bitcoin-adresse>
+	</zahlungsmoeglichkeiten>
+	</rechnung>
+	</rechnungen>
